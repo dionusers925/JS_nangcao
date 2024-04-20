@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "id": "60dd",
+      "hoTen": "Phạm Hồng Đạt",
+      "sdt": "0383512491",
+      "email": "phamhonggiang11122004@gmail.com",
+      "chuc_vu": "Trưởng phòng",
+      "ngay_sinh": "2010-11-11"
+    },
+    {
+      "hoTen": "Phạm Hồng Hoàng",
+      "sdt": "0383513744",
+      "email": "zedpham10@gmail.com",
+      "chuc_vu": "Giám đốc",
+      "ngay_sinh": "2014-12-11",
+      "id": "4a59"
+    }
+  ]
+}
